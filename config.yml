@@ -1,0 +1,115 @@
+baseURL: "https://examplesite.com"
+title: Shariq Jamil | dev-blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+#TODO
+googleAnalytics: UA-1223-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Shariq Jamil | dev-blog
+    description: "This is a place to share my half completed projects and unpolished ideas"
+    author: Shariq Jamil
+    # author: ["Me", "You"] # multiple authors
+    #images: ["images/me.jpg"]
+
+    defaultTheme: dark # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: false
+    tocopen: false
+
+    #assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        #favicon: "<link / abs url>"
+        #favicon16x16: "<link / abs url>"
+        #favicon32x32: "<link / abs url>"
+        #apple_touch_icon: "<link / abs url>"
+        #safari_pinned_tab: "<link / abs url>"
+
+    #label:
+        #text: "Home"
+        #icon: /apple-touch-icon.png
+        #iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        #title: Shariq Jamil | dev-blog
+        #subtitle: "This is subtitle"
+        imageUrl: "images/me.jpg"
+        #imageWidth: 120
+        #imageHeight: 120
+        #imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi, my name is Shariq."
+        Content: This is a place to share half-completed projects and unpolished ideas
+        imageUrl: "images/me.jpg"
+
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/code_musings"
+        - name: github
+          url: "https://github.com/shariq1989"
+
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: jamilghar
+          name: jamilghar.com
+          url: https://jamilghar.com
+          weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
