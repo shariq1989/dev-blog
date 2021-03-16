@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shariq Jamil | dev-blog</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Shariq Jamil | dev-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://examplesite.com/tags/blog/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://examplesite.com/tags/development/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://examplesite.com/tags/github/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://examplesite.com/tags/hugo/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamilghar</title>
+      <link>https://examplesite.com/tags/jamilghar/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/jamilghar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>https://examplesite.com/tags/netlify/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recipes</title>
+      <link>https://examplesite.com/tags/recipes/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/tags/recipes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
