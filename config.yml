@@ -17,7 +17,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Shariq Jamil | dev-blog
-    description: "I like to research and build stuff. Sharing what I learn as I go."
+    description: "I like to research and build stuff. I'm sharing what I learn along the way."
     author: Shariq Jamil
     # author: ["Me", "You"] # multiple authors
     #images: ["images/me.jpg"]
@@ -65,7 +65,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi, my name is Shariq."
-        Content: I like to research and build stuff. Sharing what I learn as I go.  
+        Content: I like to research and build stuff. I'm sharing what I learn along the way.  
         imageUrl: "images/me.jpg"
 
 

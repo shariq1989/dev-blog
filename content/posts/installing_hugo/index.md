@@ -2,7 +2,7 @@
 title: "Installing Hugo in Linux (Ubuntu)"
 date: 2021-03-21
 tags:
-  ["hugo", "development", "blog", "ubuntu", "pop_os"]
+  ["Hugo", "Development", "Blogging", "Ubuntu", "Linux"]
 author: "Shariq Jamil"
 draft: false
 hidemeta: false

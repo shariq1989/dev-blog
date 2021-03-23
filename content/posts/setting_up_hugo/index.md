@@ -2,7 +2,7 @@
 title: "Adding a theme in Hugo"
 date: 2021-03-22
 tags:
-  ["hugo", "development", "blog"]
+  ["Hugo", "Development", "Blogging"]
 author: "Shariq Jamil"
 draft: false
 hidemeta: false
