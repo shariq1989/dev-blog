@@ -1,6 +1,6 @@
 ---
 title: "Installing Hugo in Linux (Ubuntu)"
-date: 2021-03-21
+date: 2021-03-20
 tags:
   ["Hugo", "Development", "Blogging", "Ubuntu", "Linux"]
 author: "Shariq Jamil"

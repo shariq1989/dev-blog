@@ -1,6 +1,6 @@
 ---
 title: "We need a blog stack"
-date: 2021-01-20
+date: 2021-03-18
 tags:   ["Hugo", "Development", "Blogging", "Netlify", "Github"]
 author: "Shariq Jamil"
 draft: false

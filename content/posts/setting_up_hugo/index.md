@@ -1,13 +1,13 @@
 ---
 title: "Adding a theme in Hugo"
-date: 2021-03-22
+date: 2021-03-21
 tags:
   ["Hugo", "Development", "Blogging"]
 author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide on setting up Hugo, picking a theme, installing the theme and configuring it"
+description: "A quick and easy guide on setting up Hugo and then picking, installing and configuring a theme"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
