@@ -5,7 +5,7 @@
     <link>https://shariq1989.github.io/tags/linux/</link>
     <description>Recent content in Linux on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Installing Hugo in Linux (Ubuntu)</title>
       <link>https://shariq1989.github.io/posts/installing_hugo/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/installing_hugo/</guid>
       <description>To begin working on the blog, I needed to install Hugo first. My laptop runs Pop_OS!, a Linux distribution based on Ubuntu. There are quite a few ways to install Hugo and I chose to install the official package using apt-get.

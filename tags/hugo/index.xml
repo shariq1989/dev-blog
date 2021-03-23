@@ -11,9 +11,19 @@
     
     
     <item>
+      <title>Creating blog posts in Hugo</title>
+      <link>https://shariq1989.github.io/posts/adding_content/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/adding_content/</guid>
+      <description>Adding or updating posts in Hugo is easy. After all, content management is one of the framework&amp;rsquo;s primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through Github.
+Directory structure In Hugo, posts go into the content folder which will be in the root directory of your site. Some theme&amp;rsquo;s may have varying patterns.</description>
+    </item>
+    
+    <item>
       <title>Adding a theme in Hugo</title>
       <link>https://shariq1989.github.io/posts/setting_up_hugo/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/setting_up_hugo/</guid>
       <description>Create a Hugo site After installing Hugo, I was ready to start on the blog. I have a directory (or &amp;ldquo;folder&amp;rdquo; for Windows folks) on my laptop for software development projects. Most of these projects are also hosted in my Github account.
@@ -24,7 +34,7 @@ hugo new site food-blog  In the screenshot below, you can see that the new Hugo 
     <item>
       <title>Installing Hugo in Linux (Ubuntu)</title>
       <link>https://shariq1989.github.io/posts/installing_hugo/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/installing_hugo/</guid>
       <description>To begin working on the blog, I needed to install Hugo first. My laptop runs Pop_OS!, a Linux distribution based on Ubuntu. There are quite a few ways to install Hugo and I chose to install the official package using apt-get.
@@ -35,7 +45,7 @@ hugo version  As shown in the screenshot below, Hugo version 0.74.3 installed su
     <item>
       <title>We need a blog stack</title>
       <link>https://shariq1989.github.io/posts/intro/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/intro/</guid>
       <description>Problem My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021.
