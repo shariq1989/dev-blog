@@ -7,7 +7,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to installing Hugo on Linux"
+description: "A quick and easy guide to installing Hugo on Linux or Ubuntu"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
