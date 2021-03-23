@@ -1,5 +1,5 @@
 ---
-title: "Start blogging with Hugo"
+title: "Adding a theme in Hugo"
 date: 2021-03-22
 tags:
   ["hugo", "development", "blog"]
@@ -7,7 +7,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide on setting up Hugo, picking a theme, adding content and writing a blog on Hugo"
+description: "A quick and easy guide on setting up Hugo, picking a theme, installing the theme and configuring it"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
@@ -35,10 +35,10 @@ You may wonder why I created the Hugo site inside a directory with the same name
 As suggested by Hugo when you created the new site, you may now look for and implement a theme. Hugo has an [extensive collection of themes](https://themes.gohugo.io/) available for free. Each will have its own set of instructions for setup and configuration. Not all themes offer the same features, so it is good to think about the functionality you need in your site. Other factors I consider when choosing a theme are
 - Number of stars on Github
 - Open issues on Github
-- Time since last commit
+- Time since the last commit
 - Testing/QA
 
-These factors will indicate how well-maintained the theme is. If you have an issue down the road, you will want the theme's maintainer to be engaged. The number of stars show the theme's popularity - if it's used enough, chances are that quite a few issues have already been addressed and that there is a larger pool of contributors. Testing/QA help ensure that new commits do not include vulnerabilities and do not break existing functionality.
+These factors will indicate how well-maintained the theme is. If you have an issue down the road, you will want the theme's maintainer to be engaged. The number of stars shows the theme's popularity - if it's used enough, chances are that quite a few issues have already been addressed and that there is a larger pool of contributors. Testing/QA helps ensure that new commits do not include vulnerabilities and do not break existing functionality.
 
 Two well-supported and feature-rich themes that I like are [Anatole](https://themes.gohugo.io/anatole/) and [PaperMod](https://themes.gohugo.io/hugo-papermod/). You can make changes to a theme to support your use-case, so it's fine to choose a theme that loosely provides the structure you want.
 
@@ -49,7 +49,7 @@ Two well-supported and feature-rich themes that I like are [Anatole](https://the
 ## Install the Theme
 To begin installing the theme, navigate to the newly created Hugo site's root directory. Now you can initialize the Git repository here and pull down the theme as a submodule.
 
-A Git submodule allows you to pull a seperate repository into a project - which is a great model for importing libraries. A theme in Hugo is similar to importing a library.  
+A Git submodule allows you to pull a separate repository into a project - which is a great model for importing libraries. A theme in Hugo is similar to importing a library.  
 
     git init
     git submodule add https://github.com/lxndrblz/anatole.git themes/anatole
@@ -64,7 +64,7 @@ Themes can vary in how they are configured. You will need to read through these 
 
 Themes are mainly configured by updating the **config.toml** or **config.yml** file located in the root directory. You may often find a [sample config file](https://github.com/lxndrblz/anatole/blob/master/exampleSite/config.toml) in the theme's repository. You can compare the contents of this file to the [demo site](https://themes.gohugo.io/theme/anatole/) to learn more about the way the theme works.
 
-I overwrote the default Hugo config file with the one provided by Anatole 
+I overwrote the default Hugo config file with the one provided in Anatole's repository. 
 
     mv themes/anatole/exampleSite/config.toml .
 
