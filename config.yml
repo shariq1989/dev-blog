@@ -7,8 +7,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-#TODO
-googleAnalytics: UA-1223-45
 
 minify:
     disableXML: true
@@ -75,10 +73,6 @@ params:
         - name: github
           url: "https://github.com/shariq1989"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-
     cover:
         hidden: true # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
@@ -96,8 +90,8 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: tags
-          name: tags
+        - identifier: Topics
+          name: Topics
           url: /tags/
           weight: 20
         - identifier: jamilghar
