@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Images for the Web"
-date: 2021-03-22
+date: 2021-03-29
 tags:
   ["Development", "Blogging", "Bash", "Scripting"]
 author: "Shariq Jamil"
