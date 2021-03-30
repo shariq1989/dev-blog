@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shariq1989.github.io/tags/bash/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shariq1989.github.io/tags/blogging/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,17 @@
   </url>
   
   <url>
+    <loc>https://shariq1989.github.io/posts/optimizing_images/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shariq1989.github.io/posts/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/tags/scripting/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url>
   

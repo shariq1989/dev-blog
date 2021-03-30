@@ -21,6 +21,16 @@ Directory structure In Hugo, posts go into the content folder which will be in t
     </item>
     
     <item>
+      <title>Optimizing Images for the Web</title>
+      <link>https://shariq1989.github.io/posts/optimizing_images/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/optimizing_images/</guid>
+      <description>When we first started adding photos of food to JamilGhar, we did not think about image size. The average image we posted to the blog was between 2 and 8 megabytes and the resolution was over 3000 x 3000 pixels. The image below is an example.
+ For most blogs, images should be less than 1000 pixels in the longest direction and preferably less than 100 kB. Featured or &amp;ldquo;hero&amp;rdquo; images can be up to 500 kB if used sparingly.</description>
+    </item>
+    
+    <item>
       <title>Adding a theme in Hugo</title>
       <link>https://shariq1989.github.io/posts/setting_up_hugo/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
