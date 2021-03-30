@@ -5,7 +5,7 @@
     <link>https://shariq1989.github.io/tags/</link>
     <description>Recent content in Tags on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Bash</title>
       <link>https://shariq1989.github.io/tags/bash/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/bash/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Blogging</title>
       <link>https://shariq1989.github.io/tags/blogging/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/blogging/</guid>
       <description></description>
@@ -31,9 +31,18 @@
     <item>
       <title>Development</title>
       <link>https://shariq1989.github.io/tags/development/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>https://shariq1989.github.io/tags/scripting/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/scripting/</guid>
       <description></description>
     </item>
     
@@ -43,15 +52,6 @@
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scripting</title>
-      <link>https://shariq1989.github.io/tags/scripting/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/tags/scripting/</guid>
       <description></description>
     </item>
     
