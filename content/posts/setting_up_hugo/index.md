@@ -7,7 +7,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide on setting up Hugo and then picking, installing and configuring a theme"
+description: "A quick and easy guide on setting up Hugo and then picking, installing and configuring a theme. Want to learn how to install a Hugo theme? Or how to use a Hugo theme?"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text

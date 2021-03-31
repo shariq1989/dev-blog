@@ -6,7 +6,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "We've decided that we need to start a blog. What tech do we use? Wordpress or a static site generator like Hugo?"
+description: "We've decided that we need to start a blog. What tech do we use to build our blog? Wordpress or a static site generator like Hugo?"
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

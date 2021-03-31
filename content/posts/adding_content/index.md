@@ -7,7 +7,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to adding posts or content in Hugo"
+description: "A quick and easy guide to adding posts or content in Hugo or other static site generators for building a blog"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text

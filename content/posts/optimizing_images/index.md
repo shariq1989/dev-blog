@@ -7,7 +7,7 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to writing a script for optimizing image size and quality for blogs or posting on the web"
+description: "A quick and easy guide to writing a script for optimizing image size and quality for blogs, posting on the web or on static site generators"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
