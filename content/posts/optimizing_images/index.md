@@ -2,7 +2,7 @@
 title: "Optimizing Images for the Web"
 date: 2021-03-29
 tags:
-  ["Development", "Blogging", "Bash", "Scripting"]
+  ["Hugo", "Development", "Blogging", "Bash", "Scripting", "Image Optimization"]
 author: "Shariq Jamil"
 draft: false
 hidemeta: false
@@ -16,7 +16,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-When we first started adding photos of food to [JamilGhar](www.jamilghar.com), we did not think about image size. The average image we posted to the blog was between 2 and 8 megabytes and the resolution was over 3000 x 3000 pixels. The image below is an example.
+When we first started adding photos of food to [JamilGhar](https://www.jamilghar.com), we did not think about image size. The average image we posted to the blog was between 2 and 8 megabytes and the resolution was over 3000 x 3000 pixels. The image below is an example.
 
 ![regular](original.png)
 
