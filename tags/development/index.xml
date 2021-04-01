@@ -5,10 +5,20 @@
     <link>https://shariq1989.github.io/tags/development/</link>
     <description>Recent content in Development on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smarter image optimization</title>
+      <link>https://shariq1989.github.io/posts/find_move/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/find_move/</guid>
+      <description>This blog has been a nice source of motivation to continue improving my code and development processes. In my previous post, I discussed the process of writing a Bash script to resize and optimize images for publishing to our family&amp;rsquo;s recipe blog. I mentioned that one improvement I could make is to automate the process of identifying which files needed to be resized.
+The original script I place large images into the &amp;ldquo;optimize&amp;rdquo; directory which are then backed up and processed when I run the following script.</description>
+    </item>
     
     <item>
       <title>Optimizing Images for the Web</title>
