@@ -5,10 +5,19 @@
     <link>https://shariq1989.github.io/</link>
     <description>Recent content on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wiping hard drives or solid-state drives</title>
+      <link>https://shariq1989.github.io/posts/wiping_disks/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/wiping_disks/</guid>
+      <description>Over the years I have ended up with roughly a half dozen computers in various stages of decay. Two water-damaged Macbooks. An old HP laptop my dad handed down to me to &amp;ldquo;make faster and find a home for&amp;rdquo;. A gaming desktop from college that was caked in dust and shorted when powered up ten years later. One task I had to perform for all these machines was to collect and remove any personal data from internal storage (hard drives/solid-state drives).</description>
+    </item>
     
     <item>
       <title>Smarter image optimization</title>
@@ -38,15 +47,6 @@ The original script I place large images into the &amp;ldquo;optimize&amp;rdquo;
       <guid>https://shariq1989.github.io/posts/adding_content/</guid>
       <description>Adding or updating posts in Hugo is easy. After all, content management is one of the framework&amp;rsquo;s primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through Github.
 Directory structure In Hugo, posts go into the content folder which will be in the root directory of your site. Some theme&amp;rsquo;s may have varying patterns.</description>
-    </item>
-    
-    <item>
-      <title>Wiping hard drives or solid-state drives</title>
-      <link>https://shariq1989.github.io/posts/wiping_disks/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/posts/wiping_disks/</guid>
-      <description>Over the years I have ended up with roughly a half dozen computers in various stages of decay. Two water-damaged Macbooks. An old HP laptop my dad handed down to me to &amp;ldquo;make faster and find a home for&amp;rdquo;. A gaming desktop from college that was caked in dust and shorted when powered up ten years later. One task I had to perform for all these machines was to collect and remove any personal data from internal storage (hard drives/solid-state drives).</description>
     </item>
     
     <item>

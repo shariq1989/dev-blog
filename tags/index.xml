@@ -5,10 +5,28 @@
     <link>https://shariq1989.github.io/tags/</link>
     <description>Recent content in Tags on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Life Hacks</title>
+      <link>https://shariq1989.github.io/tags/life-hacks/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/life-hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://shariq1989.github.io/tags/linux/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bash</title>
@@ -61,24 +79,6 @@
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/scripting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life Hacks</title>
-      <link>https://shariq1989.github.io/tags/life-hacks/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/tags/life-hacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://shariq1989.github.io/tags/linux/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
