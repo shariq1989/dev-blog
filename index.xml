@@ -41,6 +41,15 @@ Directory structure In Hugo, posts go into the content folder which will be in t
     </item>
     
     <item>
+      <title>Wiping hard drives or solid-state drives</title>
+      <link>https://shariq1989.github.io/posts/wiping_disks/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/wiping_disks/</guid>
+      <description>Over the years I have ended up with roughly a half dozen computers in various stages of decay. Two water-damaged Macbooks. An old HP laptop my dad handed down to me to &amp;ldquo;make faster and find a home for&amp;rdquo;. A gaming desktop from college that was caked in dust and shorted when powered up ten years later. One task I had to perform for all these machines was to collect and remove any personal data from internal storage (hard drives/solid-state drives).</description>
+    </item>
+    
+    <item>
       <title>Adding a theme in Hugo</title>
       <link>https://shariq1989.github.io/posts/setting_up_hugo/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
@@ -68,7 +77,7 @@ hugo version  As shown in the screenshot below, Hugo version 0.74.3 installed su
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/intro/</guid>
-      <description>Problem My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021.
+      <description>My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021.
  My hunger for a software-dev-related side project A desire to digitalize our growing three-ring recipe binder Repeated requests for the same recipes (mostly Thai Red Curry and Butter Chicken) from friends and family  It was easy to devise requirements as we thought through different features (blog setup, adding posts and pictures, monetization, etc.</description>
     </item>
     

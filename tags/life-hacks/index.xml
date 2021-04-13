@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Shariq Jamil | dev-blog</title>
-    <link>https://shariq1989.github.io/tags/linux/</link>
-    <description>Recent content in Linux on Shariq Jamil | dev-blog</description>
+    <title>Life Hacks on Shariq Jamil | dev-blog</title>
+    <link>https://shariq1989.github.io/tags/life-hacks/</link>
+    <description>Recent content in Life Hacks on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shariq1989.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shariq1989.github.io/tags/life-hacks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,17 +17,6 @@
       
       <guid>https://shariq1989.github.io/posts/wiping_disks/</guid>
       <description>Over the years I have ended up with roughly a half dozen computers in various stages of decay. Two water-damaged Macbooks. An old HP laptop my dad handed down to me to &amp;ldquo;make faster and find a home for&amp;rdquo;. A gaming desktop from college that was caked in dust and shorted when powered up ten years later. One task I had to perform for all these machines was to collect and remove any personal data from internal storage (hard drives/solid-state drives).</description>
-    </item>
-    
-    <item>
-      <title>Installing Hugo in Linux (Ubuntu)</title>
-      <link>https://shariq1989.github.io/posts/installing_hugo/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/posts/installing_hugo/</guid>
-      <description>To begin working on the blog, I needed to install Hugo first. My laptop runs Pop_OS!, a Linux distribution based on Ubuntu. There are quite a few ways to install Hugo and I chose to install the official package using apt-get.
-sudo apt-get install hugo  Once the install was complete, I verified the install
-hugo version  As shown in the screenshot below, Hugo version 0.74.3 installed successfully on my machine.</description>
     </item>
     
   </channel>
