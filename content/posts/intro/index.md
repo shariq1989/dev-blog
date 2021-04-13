@@ -16,8 +16,6 @@ cover:
 
 ---
 
-## Problem
-
 My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021. 
 
 - My hunger for a software-dev-related side project
