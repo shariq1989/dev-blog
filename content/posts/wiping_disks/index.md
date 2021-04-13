@@ -1,6 +1,6 @@
 ---
 title: "Wiping hard drives or solid-state drives"
-date: 2021-03-22
+date: 2021-04-12
 tags:
   ["Linux", "Life Hacks"]
 author: "Shariq Jamil"
