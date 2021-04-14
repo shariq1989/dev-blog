@@ -59,7 +59,7 @@ Once installed, I started gparted using the Applications menu. I clicked the dro
 
 Now you are ready to partition the drive. Use **Device -> Create Partition Table...** to begin. You will see a scary prompt mentioning that any data on this drive will be erased. Ensure that this is the drive you want to wipe before continuing. 
 
-Once complete, use **Partition -> New** and then select the format of the partition you want (I use fat32) before kicking off the partitioning. 
+Once complete, use **Partition -> New** and then select the format of the partition you want (I use fat32) before kicking off the partitioning. Click the green checkmark and then set the file system you want. I use fat32 for Windows and ext4 for Linux disks. You can always change the file system later.  
 
 And there we are! The drive has now been written on three times over, formatted and then partitioned properly. The drive can now be sold separately or go back into its mothership. 
 
