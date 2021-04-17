@@ -1,5 +1,5 @@
 ---
-title: "Wiping hard drives or solid-state drives"
+title: "Erasing personal data from hard drives or solid-state drives"
 date: 2021-04-12
 tags:
   ["Linux", "Life Hacks"]
