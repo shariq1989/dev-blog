@@ -15,7 +15,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-When my dad opened a new branch for his business, he opted for a new WordPress site which would be a copy of the site for the original location but with specific updated references like branch name, addresses and phone numbers.
+When my dad opened a new branch for his business, he opted for a new WordPress site which would be a copy of the site for the original location but with specific updated references like branch name, addresses and, phone numbers.
 
 He uses GoDaddy as his host but this guide would apply to most web hosting solutions.
 
@@ -35,7 +35,7 @@ From here you can copy all your files to another instance with the same host or 
 
 ## Update wp-config.php
 
-You will need to set up another database to support the new application. Before you do that, lets update the config file while we are still looking at the files.
+You will need to set up another database to support the new application. Before you do that, update the config file while you are still looking at the files.
 
 We will need to edit **wp-config.php** which is located in the directory we found in the previous step. If your host allows it, you may edit the file in the file manager. GoDaddy doesn't so I had to download the file, updated it and then upload the new file.
 
@@ -67,14 +67,14 @@ Creating a new database using the interface is straightforward. Just remember to
 
 ![regular](create.png)
 
-Next you'll create a user (use the same values you set in the previous section). 
+Next, you'll create a user (use the same values you set in the previous section). 
 ![regular](user.png)
 
 Lastly, we will associate the newly created database and user. 
 
 ![regular](add.png)
 
-And thats it, your new WordPress instance has everything it needs
+And that's it, your new WordPress instance has everything it needs
 
 - A database and user
 - WordPress files
