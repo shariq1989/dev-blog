@@ -5,10 +5,20 @@
     <link>https://shariq1989.github.io/tags/linux/</link>
     <description>Recent content in Linux on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Refactoring/Find-&amp;-Replace on a WordPress site</title>
+      <link>https://shariq1989.github.io/posts/mass_updates_wordpress_site/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/mass_updates_wordpress_site/</guid>
+      <description>I help my dad maintain a WordPress site for his business. He recently opened a new located and needed a new WordPress site created for it. The only difference between the two sites would be updates to the branch name (ex. &amp;lsquo;Los Angeles&amp;rsquo; instead of &amp;lsquo;San Diego&amp;rsquo;) and phone number (&amp;lsquo;111-222-3333&amp;rsquo; instead of &amp;lsquo;222-333-4444&amp;rsquo;).
+ The site is not stored in version control so downloading the source code, using an IDE to run find/replace and pushing updates wasn&amp;rsquo;t a straight forward option.</description>
+    </item>
     
     <item>
       <title>Erasing personal data from hard drives or solid-state drives</title>

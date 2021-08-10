@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shariq1989.github.io/posts/migrating_wordpress_site/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/tags/development/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/tags/linux/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/posts/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/posts/mass_updates_wordpress_site/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/tags/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shariq1989.github.io/tags/wordpress/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shariq1989.github.io/posts/wiping_disks/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
@@ -13,37 +53,12 @@
   </url>
   
   <url>
-    <loc>https://shariq1989.github.io/tags/linux/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/posts/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shariq1989.github.io/tags/bash/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shariq1989.github.io/tags/blogging/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/development/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
