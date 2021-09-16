@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Search Console on Shariq Jamil | dev-blog</title>
+    <link>https://shariq1989.github.io/tags/google-search-console/</link>
+    <description>Recent content in Google Search Console on Shariq Jamil | dev-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shariq1989.github.io/tags/google-search-console/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Search Console verification for Namecheap </title>
+      <link>https://shariq1989.github.io/posts/google_search_console_verification/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/google_search_console_verification/</guid>
+      <description>Google Search Console helps with understanding your website&amp;rsquo;s performance on the search engine. To track a website there, you must first verify domain ownership using the form shown below.
+ The form asks us to add a TXT record for our URL. You&amp;rsquo;ll need to update this through your domain management tool. Since I use Namecheap to manage my domains, I&amp;rsquo;ll add the record there.
+Adding TXT record in Namecheap To access DNS settings, you&amp;rsquo;ll need to</description>
+    </item>
+    
+  </channel>
+</rss>
