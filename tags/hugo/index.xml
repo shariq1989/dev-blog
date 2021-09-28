@@ -5,10 +5,20 @@
     <link>https://shariq1989.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing images revisited</title>
+      <link>https://shariq1989.github.io/posts/optimizing_images_revisited/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/optimizing_images_revisited/</guid>
+      <description>One of the most important workflows for our food recipe blog (JamilGhar) is image optimization. My wife uploads images to our GitHub repository and, when prodded, I run a bash script that decreases image sizes and removes extraneous information from the files. The script is a constant work in progress and I have a few posts (1,2) about it on here.
+Lately, I have been considering downloading the repository on a Raspberry Pi and running the script as a scheduled job.</description>
+    </item>
     
     <item>
       <title>Smarter image optimization</title>
