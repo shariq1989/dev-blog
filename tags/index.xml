@@ -5,10 +5,37 @@
     <link>https://shariq1989.github.io/tags/</link>
     <description>Recent content in Tags on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://shariq1989.github.io/tags/development/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://shariq1989.github.io/tags/git/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://shariq1989.github.io/tags/github/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bash</title>
@@ -25,15 +52,6 @@
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://shariq1989.github.io/tags/development/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/tags/development/</guid>
       <description></description>
     </item>
     
@@ -115,15 +133,6 @@
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://shariq1989.github.io/tags/github/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://shariq1989.github.io/tags/github/</guid>
       <description></description>
     </item>
     
