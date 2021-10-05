@@ -1,5 +1,5 @@
 ---
-title: "Google Search Console verification for Namecheap "
+title: "Google Search Console verification for Namecheap"
 date: 2021-09-15
 tags: ["Namecheap", "Google Search Console"]
 author: "Shariq Jamil"
