@@ -17,7 +17,7 @@ if [ $count != 0 ]; then
 	find . -maxdepth 1 -type f -name "*.jp*g" -exec cp --verbose {} ~/Documents/Development/myblog/dev-blog/static/images/backups/ \;
 	mogrify -auto-orient -verbose -filter Triangle -define filter:support=2 -thumbnail 1200 -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB *.jp*g
 	# push changes
-	echo "------Pushing changes----------------"
+	echo "------Pushing changes is disabled for now----------------"
 	# navigate out to root directory
 	cd ~/Documents/Development/myblog/dev-blog
 #	git add *
