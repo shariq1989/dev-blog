@@ -5,10 +5,20 @@
     <link>https://shariq1989.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adding search functionality to a Hugo website</title>
+      <link>https://shariq1989.github.io/posts/search_for_hugo/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/search_for_hugo/</guid>
+      <description>Search is an important functionality for any content heavy website. Our decision to use a static site for our recipe blog meant that adding complex features that involve server operations would be difficult to implement without relying on third-party tools. These features include comments and custom metric tracking.
+ Luckily, this problem has been solved by a Javascript library called Lunr.js. Lunr provides a fast search experience for the user by processing JSON documents produced by static site generators like Hugo.</description>
+    </item>
     
     <item>
       <title>Optimizing images revisited</title>
