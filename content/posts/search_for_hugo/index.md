@@ -7,7 +7,8 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to adding search functionality to Hugo or other static site generators"
+description: "A guide to adding search functionality to a Hugo static site or other static site generators. This will 
+create a Hugo search engine for your website with a search bar without using algolia"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
