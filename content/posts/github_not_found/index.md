@@ -15,7 +15,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-At my work we use Personal Access Tokens (PATs) to authenticate to a Github repository (as opposed to using a password).  I was having trouble cloning the repository and seeing the following error
+At my work we use Personal Access Tokens (PATs) to authenticate to a GitHub repository (as opposed to using a password).  I was having trouble cloning the repository and seeing the following error
 
 ![regular](error.jpg)
 

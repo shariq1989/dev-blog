@@ -6,7 +6,8 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to copying or migrating a WordPress site on GoDaddy"
+description: "A guide to copying or migrating a WordPress site on GoDaddy without a plugin. You can use this to migrate 
+to a new host or to copy your website to a new domain."
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
@@ -37,7 +38,7 @@ From here you can copy all your files to another instance with the same host or 
 
 You will need to set up another database to support the new application. Before you do that, update the config file while you are still looking at the files.
 
-We will need to edit **wp-config.php** which is located in the directory we found in the previous step. If your host allows it, you may edit the file in the file manager. GoDaddy doesn't so I had to download the file, updated it and then upload the new file.
+We will need to edit **wp-config.php** which is located in the directory we found in the previous step. If your host allows it, you may edit the file in the file manager. GoDaddy doesn't, so I had to download the file, updated it and then upload the new file.
 
 The following lines will need to be updated.
 
@@ -85,7 +86,7 @@ Once you resolve the DNS settings, you can access the URL endpoint and go throug
 
 I had a scenario in which I needed the new site to have the same data as the previous one. You may need this functionality if you are migrating to a different host. This is performed in GoDaddy through **phpMyAdmin**. 
 
-The first step is to export the old database by clicking **Export** in the navigation bar and then using the default options. Clicking **Go** will trigger the download of a SQL file. 
+The first step is to export the old database by clicking **Export** in the navigation bar and then using the default options. Clicking **Go** will trigger the download of an SQL file. 
 
 ![regular](export.png)
 

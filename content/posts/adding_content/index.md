@@ -7,7 +7,8 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "A quick and easy guide to adding posts or content in Hugo or other static site generators for building a blog"
+description: "A guide to adding posts or content in Hugo or other static site generators for building a blog. Blogging 
+with hugo is easy and leads to a fast static site."
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
@@ -16,7 +17,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-Adding or updating posts in Hugo is easy. After all, content management is one of the framework's primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through Github.  
+Adding or updating posts in Hugo is easy. After all, content management is one of the framework's primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through GitHub.  
 
 ## Directory structure
 In Hugo, posts go into the **content** folder which will be in the root directory of your site. Some theme's may have varying patterns.
@@ -47,11 +48,11 @@ Navigate back to the root directory of the Hugo site and start the Hugo server
 If you open the site in a browser now, you will see that the posts you added have now been loaded!
 ![regular](posts.png)
 
-If you click on a post, you will see what is called the **single** view in Hugo. You are seeing the entirely of the post you clicked on, as opposed to the list view which contains snippets of each post.
+If you click on a post, you will see what is called the **single** view in Hugo. You are seeing the entirety of the post you clicked on, as opposed to the list view which contains snippets of each post.
 
 ![regular](single.png)
 
-We have learned so far that you can add new posts to Hugo just by adding them to the **content/post** directory. Lets see what a post looks like in Anatole. Posts in other themes will be very similar. Below is the Markdown code for one of the posts in Anatole's example site.
+We have learned so far that you can add new posts to Hugo just by adding them to the **content/post** directory. Let's see what a post looks like in Anatole. Posts in other themes will be very similar. Below is the Markdown code for one of the posts in Anatole's example site.
 
 The tags in the beginning such as **author** are self-explanatory. Try changing the values and seeing how the UI reacts. Text after the second **'+++'**, is the blog post's content in Markdown. I keep this [cheatsheet](https://www.markdownguide.org/basic-syntax/) handy for Markdown syntax.  
 

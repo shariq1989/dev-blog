@@ -18,7 +18,7 @@ cover:
 
 ## Create a Hugo site
 
-After installing Hugo, I was ready to start on the blog. I have a directory (or "folder" for Windows folks) on my laptop for software development projects. Most of these projects are also hosted in my [Github](https://github.com/shariq1989) account. 
+After installing Hugo, I was ready to start on the blog. I have a directory (or "folder" for Windows folks) on my laptop for software development projects. Most of these projects are also hosted in my [GitHub](https://github.com/shariq1989) account. 
 
 I navigated to that directory and created a folder called **food-blog**. Inside **food-blog**, I ran Hugo's command to start a new site.
 
@@ -33,8 +33,8 @@ You may wonder why I created the Hugo site inside a directory with the same name
 # Choose a Theme
 
 As suggested by Hugo when you created the new site, you may now look for and implement a theme. Hugo has an [extensive collection of themes](https://themes.gohugo.io/) available for free. Each will have its own set of instructions for setup and configuration. Not all themes offer the same features, so it is good to think about the functionality you need in your site. Other factors I consider when choosing a theme are
-- Number of stars on Github
-- Open issues on Github
+- Number of stars on GitHub
+- Open issues on GitHub
 - Time since the last commit
 - Testing/QA
 
@@ -60,7 +60,7 @@ The submodule has now been downloaded and is ready for configuration.
 
 ## Configuring the Theme
 
-Themes can vary in how they are configured. You will need to read through these settings in the theme's documentation (often found in the theme's Github README). Anatole's maintainer did a [great job describing the setup process](https://github.com/lxndrblz/anatole#modifying-the-configtoml). 
+Themes can vary in how they are configured. You will need to read through these settings in the theme's documentation (often found in the theme's GitHub README). Anatole's maintainer did a [great job describing the setup process](https://github.com/lxndrblz/anatole#modifying-the-configtoml). 
 
 Themes are mainly configured by updating the **config.toml** or **config.yml** file located in the root directory. You may often find a [sample config file](https://github.com/lxndrblz/anatole/blob/master/exampleSite/config.toml) in the theme's repository. You can compare the contents of this file to the [demo site](https://themes.gohugo.io/theme/anatole/) to learn more about the way the theme works.
 

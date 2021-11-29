@@ -26,7 +26,7 @@ For most blogs, images should be less than 1000 pixels in the longest direction 
 
 There are many ways to reduce the size of an image
 
-- Within image editing software (Paint, GIMP, Photoshop, etc) 
+- Within image editing software (Paint, GIMP, Photoshop, etc.) 
 - Using [online utilities](https://www.reduceimages.com/)
 - Using command-line utilities (jpegoptim, optipng)
 
@@ -54,9 +54,9 @@ This utility is similar to jpegoptim and can be used for resizing, cropping, blu
 
 ## A script for optimizing images for blogging
 
-As mentioned in previous posts, my wife is responsible for adding content and I focus on meeting any technical needs. When adding a new recipe, she will upload 5-10 photos to the GitHub repository. Once or twice a week, I inspect the "images" directory for any files over 1 MB. New image files that she uploads are greater than that limit as shown in the image at the beginning of this post. 
+As mentioned in previous posts, my wife is responsible for adding content, and I focus on meeting any technical needs. When adding a new recipe, she will upload 5-10 photos to the GitHub repository. Once or twice a week, I inspect the "images" directory for any files over 1 MB. New image files that she uploads are greater than that limit as shown in the image at the beginning of this post. 
 
-I needed a script that would back up the original image, optimize and resize, and then place the newly generated image in the appropriate **static/images** directory. After processing, the backed-up original images and the processed versions would be pushed to the Git repository. Voila, a bash script called **optimize** was born.
+I needed a script that would back up the original image, optimize and resize, and then place the newly generated image in the appropriate **static/images** directory. After processing, the backed-up original images and the processed versions would be pushed to the Git repository. Voilà! A bash script called **optimize** was born.
 
 The directory structure of JamilGhar's image files is as follows. Any images that display on the blog are stored in the **images** directory. The original versions of these images are stored in the **backup** directory. Before running the optimize script, candidate images for resizing are moved to the **optimize** directory. 
 
@@ -100,4 +100,4 @@ The image below is a resized version of the one at the beginning of this post. T
 
 ## Future Considerations
 
-Moving the image files to the optimize directory is still a manual step. I did this to ensure that I got to have the final say on which images are adjusted. This is at the cost of having huge images on the website until I get a chance to resize them. I believe this flow could be improved and fully automated by hooking into a Github Action or Netlify's continuous integration flow. It also only handles JPG files at the moment so extending the script to handle PNG's and GIF's would be beneficial.
+Moving the image files to the optimize directory is still a manual step. I did this to ensure that I got to have the final say on which images are adjusted. This is at the cost of having huge images on the website until I get a chance to resize them. I believe this flow could be improved and fully automated by hooking into a GitHub Action or Netlify's continuous integration flow. It also only handles JPG files at the moment so extending the script to handle PNGs and GIFs would be beneficial.

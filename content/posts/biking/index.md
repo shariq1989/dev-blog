@@ -6,7 +6,8 @@ author: "Shariq Jamil"
 draft: false
 hidemeta: false
 comments: false
-description: "Images from bike rides near Cary, NC and surrounding areas"
+description: "Images from bike rides on greenways and the American Tobacco Trail near Cary Raleigh North Carolina on the
+East Coast Greenway"
 cover:
   image: "<image path/url>" # image path/url
   alt: "<alt text>" # alt text
@@ -93,7 +94,7 @@ After a few months of riding my Mongoose Crossway, I have decided to upgrade to 
 
 ## 2021-06-29
 
-My son has started to enjoy riding as well. He can easily ride 2-3 miles and I have to sprint to keep up.
+My son has started to enjoy riding as well. He can easily ride 2-3 miles, and I have to sprint to keep up.
 
 ![regular](20210629_080736.jpg)
 

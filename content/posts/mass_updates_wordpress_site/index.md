@@ -19,7 +19,7 @@ I help my dad maintain a WordPress site for his business. He recently opened a n
 
 ![regular](wp.jpg)
 
-The site is not stored in version control so downloading the source code, using an IDE to run find/replace and pushing updates wasn't a straight-forward option. The tedious approach would be to update each reference on the site page by page in WordPress admin but that would take a long time and I would risk missing references or making mistakes. 
+The site is not stored in version control so downloading the source code, using an IDE to run find/replace and pushing updates wasn't a straight-forward option. The tedious approach would be to update each reference on the site page by page in WordPress admin but that would take a long time, and I would risk missing references or making mistakes. 
 
 Thankfully, after researching this problem I ran into a brilliant solution: a WordPress CLI (command-line interface) command called **search-replace**. It can be run on the server where the application is deployed.  
 

@@ -20,7 +20,7 @@ To begin working on the blog, I needed to install Hugo first. My laptop runs [Po
 
     sudo apt-get install hugo
 
-Once the install was complete, I verified the install
+Once the installation was complete, I verified that it completed successfully.
 
     hugo version
 

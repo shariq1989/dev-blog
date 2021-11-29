@@ -36,7 +36,7 @@ I first ran the following command to find the name of the drive on my machine.
 
 ![regular](fdisk.png)
 
-It was very important to correctly identify the drive you want to erase or you'll accidentally wipe one of the drives connected internally to your machine. I know that my internal drive has a capacity of 500 GB whereas the drive I want to erase is 250 GB. The identifier for this drive is **/dev/sdb**. 
+It was very important to correctly identify the drive you want to erase, or you'll accidentally wipe one of the drives connected internally to your machine. I know that my internal drive has a capacity of 500 GB whereas the drive I want to erase is 250 GB. The identifier for this drive is **/dev/sdb**. 
 
 Next, I unmounted any partitions on the drive that are mounted on my computer. In the screenshot above, "/dev/sdb" refer to the drive and "/dev/sdb1" and "/dev/sdb2" refer to partitions. Note that the command to unmount a partition is **umount** and not **unmount**.
 
