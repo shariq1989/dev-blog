@@ -16,7 +16,7 @@
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/github_not_found/</guid>
-      <description>At my work we use Personal Access Tokens (PATs) to authenticate to a Github repository (as opposed to using a password). I was having trouble cloning the repository and seeing the following error
+      <description>At my work we use Personal Access Tokens (PATs) to authenticate to a GitHub repository (as opposed to using a password). I was having trouble cloning the repository and seeing the following error
  After browsing Stack Overflow posts, I realized that I didn&amp;rsquo;t set the right &amp;ldquo;scopes&amp;rdquo; or permissions for my token. I generated a new token but this time I made sure to set all the scopes under &amp;ldquo;repo&amp;rdquo;.</description>
     </item>
     
@@ -27,7 +27,7 @@
       
       <guid>https://shariq1989.github.io/posts/intro/</guid>
       <description>My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021.
- My hunger for a software-dev-related side project A desire to digitalize our growing three-ring recipe binder Repeated requests for the same recipes (mostly Thai Red Curry and Butter Chicken) from friends and family  It was easy to devise requirements as we thought through different features (blog setup, adding posts and pictures, monetization, etc.</description>
+ My hunger for a software-dev-related side project A desire to digitize our growing three-ring recipe binder Repeated requests for the same recipes (mostly Thai Red Curry and Butter Chicken) from friends and family  It was easy to devise requirements as we thought through different features (blog setup, adding posts and pictures, monetization, etc.</description>
     </item>
     
   </channel>

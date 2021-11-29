@@ -5,10 +5,20 @@
     <link>https://shariq1989.github.io/tags/blogging/</link>
     <description>Recent content in Blogging on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shariq1989.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated image optimization for publishing on a blog</title>
+      <link>https://shariq1989.github.io/posts/automated_image_optimization/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/automated_image_optimization/</guid>
+      <description>After a few attempts, I have automated the process for optimizing images for JamilGhar. As my wife adds images to the project&amp;rsquo;s git repository, a bash script that runs on regular intervals will compress them. The end result is fantastic because she no longer has to wait on me to manually optimize them for her and the Raspberry Pi that sits under my desk is being very useful.
+ Why is optimizing images important?</description>
+    </item>
     
     <item>
       <title>Adding search functionality to a Hugo website</title>
@@ -56,7 +66,7 @@ The original script I place large images into the &amp;ldquo;optimize&amp;rdquo;
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/adding_content/</guid>
-      <description>Adding or updating posts in Hugo is easy. After all, content management is one of the framework&amp;rsquo;s primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through Github.
+      <description>Adding or updating posts in Hugo is easy. After all, content management is one of the framework&amp;rsquo;s primary features. My wife has little interest in understanding the software development side of blogging. Even she finds it effortless to add blog posts in markdown and half-a-dozen images per post through GitHub.
 Directory structure In Hugo, posts go into the content folder which will be in the root directory of your site. Some theme&amp;rsquo;s may have varying patterns.</description>
     </item>
     
@@ -66,7 +76,7 @@ Directory structure In Hugo, posts go into the content folder which will be in t
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/posts/setting_up_hugo/</guid>
-      <description>Create a Hugo site After installing Hugo, I was ready to start on the blog. I have a directory (or &amp;ldquo;folder&amp;rdquo; for Windows folks) on my laptop for software development projects. Most of these projects are also hosted in my Github account.
+      <description>Create a Hugo site After installing Hugo, I was ready to start on the blog. I have a directory (or &amp;ldquo;folder&amp;rdquo; for Windows folks) on my laptop for software development projects. Most of these projects are also hosted in my GitHub account.
 I navigated to that directory and created a folder called food-blog. Inside food-blog, I ran Hugo&amp;rsquo;s command to start a new site.
 hugo new site food-blog  In the screenshot below, you can see that the new Hugo site was created successfully.</description>
     </item>
@@ -78,7 +88,7 @@ hugo new site food-blog  In the screenshot below, you can see that the new Hugo 
       
       <guid>https://shariq1989.github.io/posts/installing_hugo/</guid>
       <description>To begin working on the blog, I needed to install Hugo first. My laptop runs Pop_OS!, a Linux distribution based on Ubuntu. There are quite a few ways to install Hugo and I chose to install the official package using apt-get.
-sudo apt-get install hugo  Once the install was complete, I verified the install
+sudo apt-get install hugo  Once the installation was complete, I verified that it completed successfully.
 hugo version  As shown in the screenshot below, Hugo version 0.74.3 installed successfully on my machine.</description>
     </item>
     
@@ -89,7 +99,7 @@ hugo version  As shown in the screenshot below, Hugo version 0.74.3 installed su
       
       <guid>https://shariq1989.github.io/posts/intro/</guid>
       <description>My wife and I have always wanted to work on an online project together. She is creative, and I can figure out technology. A multitude of reasons pushed us to start a blog in early 2021.
- My hunger for a software-dev-related side project A desire to digitalize our growing three-ring recipe binder Repeated requests for the same recipes (mostly Thai Red Curry and Butter Chicken) from friends and family  It was easy to devise requirements as we thought through different features (blog setup, adding posts and pictures, monetization, etc.</description>
+ My hunger for a software-dev-related side project A desire to digitize our growing three-ring recipe binder Repeated requests for the same recipes (mostly Thai Red Curry and Butter Chicken) from friends and family  It was easy to devise requirements as we thought through different features (blog setup, adding posts and pictures, monetization, etc.</description>
     </item>
     
   </channel>
